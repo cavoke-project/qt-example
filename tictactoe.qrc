@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/tictactoe">
+        <file>qml/tic-tac-toe.qml</file>
+        <file>qml/content/Button.qml</file>
+        <file>qml/content/TicTac.qml</file>
+        <file>qml/content/tic-tac-toe.js</file>
+        <file>qml/content/pics/board.png</file>
+        <file>qml/content/pics/o.png</file>
+        <file>qml/content/pics/x.png</file>
+    </qresource>
+</RCC>
